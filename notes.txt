@@ -1,0 +1,1 @@
+Various data analytics methods and machine learning techniques are adopted for each assignment. 
